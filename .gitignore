@@ -1,0 +1,13 @@
+# Python / Conda / Poetry
+__pycache__/
+*.py[cod]
+*.egg-info/
+.env
+.venv/
+# Data & checkpoints
+data/
+artifacts/
+*.ckpt
+wandb/
+# Jupyter
+.ipynb_checkpoints/
